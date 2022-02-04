@@ -1,3 +1,5 @@
+#meta 태그 따오는 연습용
+
 import requests
 from bs4 import BeautifulSoup
 
